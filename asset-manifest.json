@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Hardikpac/React-to-do-List/static/css/main.f503aa8f.chunk.css",
+    "main.js": "/Hardikpac/React-to-do-List/static/js/main.56483684.chunk.js",
+    "main.js.map": "/Hardikpac/React-to-do-List/static/js/main.56483684.chunk.js.map",
+    "runtime-main.js": "/Hardikpac/React-to-do-List/static/js/runtime-main.77179de0.js",
+    "runtime-main.js.map": "/Hardikpac/React-to-do-List/static/js/runtime-main.77179de0.js.map",
+    "static/js/2.12149c36.chunk.js": "/Hardikpac/React-to-do-List/static/js/2.12149c36.chunk.js",
+    "static/js/2.12149c36.chunk.js.map": "/Hardikpac/React-to-do-List/static/js/2.12149c36.chunk.js.map",
+    "index.html": "/Hardikpac/React-to-do-List/index.html",
+    "precache-manifest.9105d1157b0de0dd8cc39400227bf17e.js": "/Hardikpac/React-to-do-List/precache-manifest.9105d1157b0de0dd8cc39400227bf17e.js",
+    "service-worker.js": "/Hardikpac/React-to-do-List/service-worker.js",
+    "static/css/main.f503aa8f.chunk.css.map": "/Hardikpac/React-to-do-List/static/css/main.f503aa8f.chunk.css.map",
+    "static/js/2.12149c36.chunk.js.LICENSE.txt": "/Hardikpac/React-to-do-List/static/js/2.12149c36.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Hardikpac/React-to-do-List/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77179de0.js",
+    "static/js/2.12149c36.chunk.js",
+    "static/css/main.f503aa8f.chunk.css",
+    "static/js/main.56483684.chunk.js"
+  ]
+}
